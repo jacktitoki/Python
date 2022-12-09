@@ -1,5 +1,6 @@
 
 ## Arithmetic Analysis
+
   * [Bisection](arithmetic_analysis/bisection.py)
   * [Gaussian Elimination](arithmetic_analysis/gaussian_elimination.py)
   * [In Static Equilibrium](arithmetic_analysis/in_static_equilibrium.py)
